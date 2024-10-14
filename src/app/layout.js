@@ -2,7 +2,7 @@
 import './globals.css'; // Import global styles
 
 export const metadata = {
-  title: 'My Website',
+  title: 'Pascal Sibondagara',
   description: 'Welcome to my website',
 };
 
